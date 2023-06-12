@@ -9,8 +9,8 @@ public class ArrayDemo {
 			System.out.println("integer1 is :" +c[1] );
 				
 			
-	
-			
+	        int b1;
+			int a1;
 		
 			
 				
