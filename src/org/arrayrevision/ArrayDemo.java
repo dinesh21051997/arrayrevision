@@ -10,7 +10,7 @@ public class ArrayDemo {
 				
 			
 	
-			
+			int a1;
 		
 			
 				
